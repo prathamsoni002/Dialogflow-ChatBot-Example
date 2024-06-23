@@ -12,7 +12,7 @@ Various intents have been created as shown:
 
 ![image](https://github.com/prathamsoni002/Dialogflow-ChatBot-Example/assets/114599961/e43569f4-215c-4afa-a4cb-675b629dc598)
 
-![image](https://github.com/prathamsoni002/Dialogflow-ChatBot-Example/assets/114599961/b8f41ea9-bc67-4ffa-a106-413b12bd74c2)
+![image](https://github.com/prathamsoni002/Dialogflow-ChatBot-Example/assets/114599961/8298cb43-f799-4147-aab0-5634f8b4416b)
 
 
 
